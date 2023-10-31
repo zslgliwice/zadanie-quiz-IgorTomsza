@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1698150825 source:c:\users\egzamin\documents\2p\grajakas\main.cpp
+	<iostream>
+	<windows.h>
+	<cstdlib>
+
+1698615521 source:c:\users\pc\desktop\grajakas\main.cpp
+	<iostream>
+	<windows.h>
+	<cstdlib>
+
